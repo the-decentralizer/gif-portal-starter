@@ -25,12 +25,12 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
-  color: white;
+  color: rgb(123, 207, 237);
 }
 
 .sub-text {
   font-size: 25px;
-  color: white;
+  color: rgb(239, 93, 239);
 }
 
 .gradient-text {
@@ -120,7 +120,7 @@
   height: 60px;
   font-size: 16px;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.239);
   border: none;
   border-radius: 10px;
   margin: 50px auto;
